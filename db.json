@@ -10718,18 +10718,22 @@
       "country": "India"
     }
   ],
-  "caste": [
-    "Mudaliyar Malayalam",
-    "Nair",
-    "Vanniyar",
-    "Adi Dravidar(SC) MALAYALAM",
-    "Mudaliyar",
-    "Adi dravidar",
-    "YADAVAR",
-    "Chettiyar",
-    "Nadar",
-    "Caste-no-bar"
-  ],
-  "religion": ["Hindu"],
-  "community": ["Tamil", "Malayalam"]
+  "filter": [
+    {
+      "caste": [
+        "Mudaliyar Malayalam",
+        "Nair",
+        "Vanniyar",
+        "Adi Dravidar(SC) MALAYALAM",
+        "Mudaliyar",
+        "Adi dravidar",
+        "YADAVAR",
+        "Chettiyar",
+        "Nadar",
+        "Caste-no-bar"
+      ]
+    },
+    { "religion": ["Hindu"] },
+    { "community": ["Tamil", "Malayalam"] }
+  ]
 }
