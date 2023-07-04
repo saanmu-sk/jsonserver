@@ -10734,6 +10734,7 @@
       ]
     },
     { "religion": ["Hindu"] },
-    { "community": ["Tamil", "Malayalam"] }
+    { "community": ["Tamil", "Malayalam"] },
+    { "gender": ["Male", "Female"] }
   ]
 }
